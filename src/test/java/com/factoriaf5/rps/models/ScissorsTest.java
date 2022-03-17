@@ -1,12 +1,12 @@
 package com.factoriaf5.rps.models;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import com.factoriaf5.rps.domain.models.Rock;
 
 import org.junit.Test;
 
-public class RockTest {
+public class ScissorsTest {
 
     @Test
 
